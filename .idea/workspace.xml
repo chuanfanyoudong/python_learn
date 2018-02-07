@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="941ada39-bcb8-4f52-8687-1f64e846d02e" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/python_learn.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dictionary.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/list.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/string.ipynb" />
-      <change beforePath="$PROJECT_DIR$/python_learn.ipynb" afterPath="$PROJECT_DIR$/python_learn.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/file.ipynb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -51,11 +44,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dictionary.ipynb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="dictionary.ipynb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dictionary.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
               <selected id="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="file.ipynb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/file.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="0" />
             </state>
           </provider>
         </entry>
@@ -102,6 +104,7 @@
         <option value="$PROJECT_DIR$/list.ipynb" />
         <option value="$PROJECT_DIR$/.ipynb_checkpoints/dictionary.ipynb" />
         <option value="$PROJECT_DIR$/dictionary.ipynb" />
+        <option value="$PROJECT_DIR$/file.ipynb" />
       </list>
     </option>
   </component>
@@ -230,13 +233,21 @@
       <option name="project" value="LOCAL" />
       <updated>1517898803255</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="加上字典练习 - 2017-02-07">
+      <created>1517984559657</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1517984559657</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24960254" sideWeight="0.49405771" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24960254" sideWeight="0.49405771" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32915717" sideWeight="0.50397456" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -260,7 +271,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="加以一部分字符串练习" />
-    <option name="LAST_COMMIT_MESSAGE" value="加以一部分字符串练习" />
+    <MESSAGE value="加上字典练习 - 2017-02-07" />
+    <option name="LAST_COMMIT_MESSAGE" value="加上字典练习 - 2017-02-07" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -461,6 +473,13 @@
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
         </state>
       </provider>
     </entry>
