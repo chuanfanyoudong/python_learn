@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="941ada39-bcb8-4f52-8687-1f64e846d02e" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/file.ipynb" afterPath="$PROJECT_DIR$/file.ipynb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -56,7 +57,17 @@
         <entry file="file://$PROJECT_DIR$/file.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="0" />
+              <selected id="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="myfile.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myfile.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -246,7 +257,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517984864246</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="加上文件练习 - 2017-02-07">
+      <created>1517984882218</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1517984882218</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -278,7 +296,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="加以一部分字符串练习" />
     <MESSAGE value="加上字典练习 - 2017-02-07" />
-    <option name="LAST_COMMIT_MESSAGE" value="加上字典练习 - 2017-02-07" />
+    <MESSAGE value="加上文件练习 - 2017-02-07" />
+    <option name="LAST_COMMIT_MESSAGE" value="加上文件练习 - 2017-02-07" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -467,13 +486,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/list.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.ipynb_checkpoints/dictionary.ipynb" />
     <entry file="file://$PROJECT_DIR$/dictionary.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
@@ -482,10 +494,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/list.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myfile.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/file.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="0" />
+          <selected id="7" />
         </state>
       </provider>
     </entry>
