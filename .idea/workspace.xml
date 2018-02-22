@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="941ada39-bcb8-4f52-8687-1f64e846d02e" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tenforflowlearn.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/python_learn.iml" afterPath="$PROJECT_DIR$/.idea/python_learn.iml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/file.ipynb" afterPath="$PROJECT_DIR$/file.ipynb" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -65,7 +62,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tenforflowlearn.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="tenforflowlearn.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tenforflowlearn.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="214">
@@ -73,6 +70,16 @@
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" column="25" lean-forward="false" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -132,6 +139,7 @@
         <option value="$PROJECT_DIR$/file.ipynb" />
         <option value="$PROJECT_DIR$/tensorflow.py" />
         <option value="$PROJECT_DIR$/tenforflowlearn.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -332,7 +340,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517988307537</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="加上文件练习 - 2017-02-07">
+      <created>1519291461344</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1519291461344</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -371,13 +386,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/string.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/list.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -709,6 +717,14 @@
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="25" lean-forward="false" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+          <folding />
         </state>
       </provider>
     </entry>

@@ -1,11 +1,6 @@
-# deeplearning.ai
+# 姜振康的python学习记录
 
-吴恩达深度学习课程，包含课程的课件、课后作业和一些其他资料。
+要成为厉害的人
 
-## 课程地址：
->deeplearning.ai官网地址：https://www.deeplearning.ai/
-
->coursera地址：https://www.coursera.org/specializations/deep-learning
-
->网易视频地址：https://163.lu/nPtn42
+## 主要是用的jupyter，也会用python.py
 
