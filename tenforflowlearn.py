@@ -21,9 +21,11 @@ init = tf.initialize_all_variables()
 sess = tf.Session()
 sess.run(init)
 
+import pandas
+list(pandas._dict_.keys())
+
 
 for step in range(0, 201):
     sess.run(train)
     if step % 20 == 0:
         print(step, sess.run(W), sess.run(b))
-

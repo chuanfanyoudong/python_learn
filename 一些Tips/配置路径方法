@@ -1,0 +1,3 @@
+python添加路径的方法：
+1：在主目录下加上.pth文件，文件中放上路径
+2：http://blog.csdn.net/wh357589873/article/details/53204024，在pycharm设置中添加路径
