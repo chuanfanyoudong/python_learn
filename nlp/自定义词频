@@ -1,0 +1,18 @@
+import re
+
+from sklearn.feature_extraction.text import CountVectorizer
+
+
+def to_british(tokens):
+    for t in tokens:
+        t = re.sub(r"(...)our$", r"\1or", t)
+        t = re.sub(r"([bt])re$", r"\1er", t)
+        t = re.sub(r"([iy])s(e$|ing|ation)", r"\1z\2", t)
+        t = re.sub(r"ogue$", "og", t)
+        yield t
+
+class CustomVectorize(CountVectorizer):
+    def build_tokenizer(self):
+        tokenize = super(CustomVectorize, self).build_tokenizer()
+        return lambda doc: list(to_british(tokenize(doc)))
+print(CustomVectorize().build_analyzer()(u"color colour"))
